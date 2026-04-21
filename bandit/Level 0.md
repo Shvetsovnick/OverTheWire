@@ -7,7 +7,7 @@ Once logged in, go to the Level 1 page to find out how to beat Level 1.
 Solution:
 To login to Level 1 I will use SSH with credentials provided in the task.
 
-ssh bandit0@bandit.labs.overthewire.org -p 2220
+```ssh bandit0@bandit.labs.overthewire.org -p 2220```
 
 -p 2220 specifies the non-default port
 
